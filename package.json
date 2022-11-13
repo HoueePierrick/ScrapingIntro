@@ -1,0 +1,23 @@
+{
+  "name": "scrapingintro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.9",
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  },
+  "type": "module"
+}
